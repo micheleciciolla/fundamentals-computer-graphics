@@ -8,13 +8,13 @@ You can read all the published slides [here](./all-slides.pdf)
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 
 
-## First Homework
+## First Homework Results
 
 #### The Description of what i had to to implement is inside the [readme](./homework1/readme.md) file.
 
 ![](/homework1/results/extra_points/LAMP_TOON_ON.jpg)
 
-## Second Homework
+## Second Homework Results
 
 #### The Description of what i had to to implement is inside the [readme](./homework2/readme.md) file.
 
@@ -24,7 +24,7 @@ You can read all the published slides [here](./all-slides.pdf)
 ![](homework2/results/extras/MYOS/myos_3_cyber_720s_720r.jpg.jpg)
 
 
-## Third Homework
+## Third Homework Results
 
 #### The Description of what i had to to implement is inside the [readme](./homework3/readme.md) file.
 
