@@ -3,7 +3,7 @@
 ## Slides
 You can read all the published slides [here](./all-slides.pdf)
 
-## 3 homeworks resume
+## This course can be achieved completing 3 homeworks, here you have a resume of results
 
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 
