@@ -1,7 +1,7 @@
 # Fundamentals of Computer Graphics course
 
 ## Slides
-You can read all the published slides here [DOCUMENTATION](./all-slides.pdf)
+You can read all the published slides [here](./all-slides.pdf)
 
 ## 3 homeworks resume
 
