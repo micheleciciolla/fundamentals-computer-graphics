@@ -30,5 +30,5 @@ You can read all the published slides [here](./all-slides.pdf)
 
 ![](homework3/results/my_01_surface_720_256.jpg)
 
-_This readme formatting ideda has been taken from a collegue of mine [Flavio Lorenzi](https://github.com/FlavioLorenzi). 
+_This readme formatting ideda has been taken from a collegue of mine [Flavio Lorenzi](https://github.com/FlavioLorenzi)_. 
 
