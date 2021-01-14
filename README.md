@@ -1,6 +1,6 @@
 # Fundamentals of Computer Graphics course
 
-## Slides
+## Winter 2020 Slides
 You can read all the published slides [here](./all-slides.pdf)
 
 ## This course can be achieved completing 3 homeworks, here you have a resume of results
