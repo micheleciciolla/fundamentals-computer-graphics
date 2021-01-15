@@ -8,7 +8,7 @@ You can read all the published slides [here](./all-slides.pdf)
 
 ## This course can be achieved completing 3 homeworks, here you have a resume of results
 
-### α ## First Homework Results
+α ## First Homework Results
 
 #### The Description of what i had to to implement is inside the [readme](./homework1/readme.md) file.
 
