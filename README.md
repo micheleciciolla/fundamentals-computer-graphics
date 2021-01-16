@@ -8,7 +8,7 @@
 ## Winter 2020 Slides
 You can read all the published slides [here](./all-slides.pdf)
 
-## This course can be achieved completing 3 homeworks, here you have a resume of results
+## Number of homeworks completed to achieve this course : 3
 
 ## (1) First Homework Results
 
