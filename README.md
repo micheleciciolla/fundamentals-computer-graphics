@@ -10,13 +10,13 @@ You can read all the published slides [here](./all-slides.pdf)
 
 ## Number of homeworks completed to achieve this course : 3
 
-## (1) First Homework Results
+## [ 1 ] First Homework Results
 
 #### The Description of what i had to to implement is inside the [readme](./homework1/readme.md) file.
 
 ![](/homework1/results/extra_points/LAMP_TOON_ON.jpg)
 
-## (2) Second Homework Results
+## [ 2 ] Second Homework Results
 
 #### The Description of what i had to to implement is inside the [readme](./homework2/readme.md) file.
 
@@ -26,7 +26,7 @@ You can read all the published slides [here](./all-slides.pdf)
 ![](homework2/results/extras/MYOS/myos_3_cyber_720s_720r.jpg.jpg)
 
 
-## (3) Third Homework Results
+## [ 3 ] Third Homework Results
 
 #### The Description of what i had to to implement is inside the [readme](./homework3/readme.md) file.
 
