@@ -1,9 +1,9 @@
+
+![Swagger Validator](https://img.shields.io/swagger/valid/3.0?label=Ubuntu%2016.04%20LTS&logo=Ubuntu&specUrl=https%3A%2F%2Fraw.githubusercontent.com%2FOAI%2FOpenAPI-Specification%2Fmaster%2Fexamples%2Fv2.0%2Fjson%2Fpetstore-expanded.json)
+
 # Fundamentals of Computer Graphics course
 
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
-
-
-![Swagger Validator](https://img.shields.io/swagger/valid/3.0?label=Ubuntu%2016.04%20LTS&logo=Ubuntu&specUrl=https%3A%2F%2Fraw.githubusercontent.com%2FOAI%2FOpenAPI-Specification%2Fmaster%2Fexamples%2Fv2.0%2Fjson%2Fpetstore-expanded.json)
 
 ## Winter 2020 Slides
 You can read all the published slides [here](./all-slides.pdf)
